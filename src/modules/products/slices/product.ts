@@ -1,5 +1,5 @@
 import { createSlice, PayloadAction } from "@reduxjs/toolkit";
-import { TProduct } from "../../types";
+import { TProduct } from "../types";
 import { PRODUCT_STATUSES, PRODUCT_TYPES } from "../constants";
 import moment from "moment";
 
